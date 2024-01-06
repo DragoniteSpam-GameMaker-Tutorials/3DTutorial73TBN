@@ -1,0 +1,51 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "3DTutorial73TBN",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Texture Maps","folderPath":"folders/Texture Maps.yy",},
+  ],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"ground.vbuff","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sheath.vbuff","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sphere.vbuff","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sword.vbuff","CopyToMask":-1,"filePath":"datafiles",},
+  ],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.1.129",
+  },
+  "resources": [
+    {"id":{"name":"spr_sword","path":"sprites/spr_sword/spr_sword.yy",},},
+    {"id":{"name":"spr_sheath","path":"sprites/spr_sheath/spr_sheath.yy",},},
+    {"id":{"name":"generate_normal_wireframe","path":"scripts/generate_normal_wireframe/generate_normal_wireframe.yy",},},
+    {"id":{"name":"spr_sheath_norm","path":"sprites/spr_sheath_norm/spr_sheath_norm.yy",},},
+    {"id":{"name":"shd_diffuse","path":"shaders/shd_diffuse/shd_diffuse.yy",},},
+    {"id":{"name":"shd_wireframe","path":"shaders/shd_wireframe/shd_wireframe.yy",},},
+    {"id":{"name":"spr_sword_norm","path":"sprites/spr_sword_norm/spr_sword_norm.yy",},},
+    {"id":{"name":"spr_ground_normal","path":"sprites/spr_ground_normal/spr_ground_normal.yy",},},
+    {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
+    {"id":{"name":"generate_tbn_wireframe","path":"scripts/generate_tbn_wireframe/generate_tbn_wireframe.yy",},},
+    {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
+    {"id":{"name":"shd_normal_mapping","path":"shaders/shd_normal_mapping/shd_normal_mapping.yy",},},
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

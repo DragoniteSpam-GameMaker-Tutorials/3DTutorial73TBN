@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Texture Maps","order":16,"path":"folders/Texture Maps.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_sword","order":2,"path":"sprites/spr_sword/spr_sword.yy",},
+    {"name":"generate_normal_wireframe","order":19,"path":"scripts/generate_normal_wireframe/generate_normal_wireframe.yy",},
+    {"name":"spr_sheath_norm","order":1,"path":"sprites/spr_sheath_norm/spr_sheath_norm.yy",},
+    {"name":"shd_diffuse","order":17,"path":"shaders/shd_diffuse/shd_diffuse.yy",},
+    {"name":"shd_wireframe","order":18,"path":"shaders/shd_wireframe/shd_wireframe.yy",},
+    {"name":"spr_sword_norm","order":3,"path":"sprites/spr_sword_norm/spr_sword_norm.yy",},
+    {"name":"spr_ground_normal","order":5,"path":"sprites/spr_ground_normal/spr_ground_normal.yy",},
+    {"name":"fnt_game","order":2,"path":"fonts/fnt_game/fnt_game.yy",},
+    {"name":"generate_tbn_wireframe","order":20,"path":"scripts/generate_tbn_wireframe/generate_tbn_wireframe.yy",},
+    {"name":"spr_ground","order":4,"path":"sprites/spr_ground/spr_ground.yy",},
+    {"name":"shd_normal_mapping","order":5,"path":"shaders/shd_normal_mapping/shd_normal_mapping.yy",},
+    {"name":"Camera","order":7,"path":"objects/Camera/Camera.yy",},
+    {"name":"Player","order":8,"path":"objects/Player/Player.yy",},
+    {"name":"room0","order":6,"path":"rooms/room0/room0.yy",},
+  ],
+}
