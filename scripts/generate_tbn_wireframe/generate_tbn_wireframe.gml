@@ -3,8 +3,6 @@ function generate_tbn_wireframe(vbuff, vertex_format) {
     var new_buffer = buffer_create(buffer_get_size(buffer) / 44 * 36 * 2, buffer_fixed, 1);
     
     for (var i = 0, n = buffer_get_size(buffer); i < n; i += 44 * 3) {
-        buffer_seek(buffer, buffer_seek_start, i);
-        
         var x1 = buffer_peek(buffer, i + 00, buffer_f32);
         var y1 = buffer_peek(buffer, i + 04, buffer_f32);
         var z1 = buffer_peek(buffer, i + 08, buffer_f32);

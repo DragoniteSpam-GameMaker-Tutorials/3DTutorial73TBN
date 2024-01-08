@@ -7,6 +7,7 @@
     {"name":"generate_normal_wireframe","order":19,"path":"scripts/generate_normal_wireframe/generate_normal_wireframe.yy",},
     {"name":"spr_sheath_norm","order":1,"path":"sprites/spr_sheath_norm/spr_sheath_norm.yy",},
     {"name":"shd_diffuse","order":17,"path":"shaders/shd_diffuse/shd_diffuse.yy",},
+    {"name":"calculate_tangents","order":21,"path":"scripts/calculate_tangents/calculate_tangents.yy",},
     {"name":"shd_wireframe","order":18,"path":"shaders/shd_wireframe/shd_wireframe.yy",},
     {"name":"spr_sword_norm","order":3,"path":"sprites/spr_sword_norm/spr_sword_norm.yy",},
     {"name":"spr_ground_normal","order":5,"path":"sprites/spr_ground_normal/spr_ground_normal.yy",},
